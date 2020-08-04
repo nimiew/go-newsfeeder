@@ -1,4 +1,4 @@
-Good project to learn how to make basic web server in Go
+Good project to learn how to make basic server in Go with Gin
 
 Reference: https://www.youtube.com/watch?v=LOn1GUsjOF4
 
